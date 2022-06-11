@@ -1,0 +1,62 @@
+Hi
+Hello!
+Hey
+Hi there, how can I help?
+How are you?
+I am fine. How may I help you?
+Is anyone there?
+Hello! I'm Bot.
+Hello
+Hey there!
+Whats up?
+Good day.
+Are you a robot?
+Yes, My name is Hobot.
+Are you a bot?
+Yes, My name is HoBot
+Are you a chatbot?
+Yes, My name is HoBot
+Are you real?'
+I am a ChatBot, My name is HoBot
+What is your name?
+My name is HoBot
+Who made you?
+Mansi Jain made me.
+What do you do?
+I am made to give details of Hotel Menu.
+what is the location?
+Online
+whats the location?
+Online
+where are you locatated?
+Online
+where is the restaurant located?
+Online
+address
+Online
+whats the address?
+Online
+contact information
+You can contact us at our website @ www.hotelho.com.
+contact us
+You can contact us at our website @ www.hotelho.com
+how can i contact
+You can contact us at our website @ www.hotelho.com
+can i get the contact details
+You can contact us at our website @ www.hotelho.com
+I wanna give some feedback
+You can contact us at our website @ www.hotelho.com
+how can i give some feedback?
+You can contact us at our website @ www.hotelho.com
+cya
+Sad to see you go :( 
+See you later
+Sad to see you go :( 
+I am Leaving
+Have a Good day
+cya later
+Goodbye!
+I gotta go now
+Goodbye!
+I gotta rush now
+Goodbye!
