@@ -18,7 +18,7 @@ It's compatible with Python versions **3.7+**
 Installing
 ==========
 
-For running this chatbot , you have to install libraries .
+For running this chatbot , you have to install libraries:
      pip install python-telegram-bot-raw --upgrade
 
 
