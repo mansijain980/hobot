@@ -19,7 +19,7 @@ Installing
 ==========
 
 For running this chatbot , you have to install libraries .
- [$ pip install python-telegram-bot-raw --upgrade]
+     pip install python-telegram-bot-raw --upgrade
 
 
 
