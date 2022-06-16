@@ -7,8 +7,16 @@
 ## Guide to your next booking
 
 <img src = "https://img.shields.io/pypi/v/python-telegram-bot-raw.svg">
-Introduction
-============
+[![Package Version](https://img.shields.io/pypi/v/chatterbot.svg)](https://pypi.python.org/pypi/chatterbot/)
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![Django 2.0](https://img.shields.io/badge/Django-2.0-blue.svg)](https://docs.djangoproject.com/en/2.1/releases/2.0/)
+[![Requirements Status](https://requires.io/github/gunthercox/ChatterBot/requirements.svg?branch=master)](https://requires.io/github/gunthercox/ChatterBot/requirements/?branch=master)
+[![Build Status](https://travis-ci.org/gunthercox/ChatterBot.svg?branch=master)](https://travis-ci.org/gunthercox/ChatterBot)
+[![Documentation Status](https://readthedocs.org/projects/chatterbot/badge/?version=stable)](http://chatterbot.readthedocs.io/en/stable/?badge=stable)
+[![Coverage Status](https://img.shields.io/coveralls/gunthercox/ChatterBot.svg)](https://coveralls.io/r/gunthercox/ChatterBot)
+[![Code Climate](https://codeclimate.com/github/gunthercox/ChatterBot/badges/gpa.svg)](https://codeclimate.com/github/gunthercox/ChatterBot)
+## Introduction
+
 
 **Not only can chatbots be prepared to display the features, services, and attractions of the service, with an appropriate script they can guide website visitors through the path of making a booking.**
 **With Machine Learning, chatbots not only keep improving the answers, they also improve their creation of the potential customer profile.**
@@ -32,7 +40,22 @@ This package can be installed from [PyPi](https://pypi.python.org/pypi/ChatterBo
 
 ```
 pip install chatterbot
+pip install flask 
+pip install pytz
 ```
+
+Then run 
+ ```
+ python app.py
+ ```
+ on command prompt
+ 
+ ## HERE IT IS
+ 
+![image](https://user-images.githubusercontent.com/63226239/174125271-6d9199dc-54f1-4695-bd2a-5843ffaa5685.png)
+
+ 
+ 
 
 
 
