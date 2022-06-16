@@ -7,7 +7,7 @@
 
 ## Guide to your next booking
 
-.. image:: https://img.shields.io/pypi/v/python-telegram-bot-raw.svg
+.. <img src = "https://img.shields.io/pypi/v/python-telegram-bot-raw.svg" /img>
    :target: https://pypi.org/project/python-telegram-bot-raw/
    :alt: PyPi Package Version
 
